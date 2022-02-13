@@ -1,0 +1,10 @@
+X=float(input("enter the any value"))
+Y=float(input("2enter the any value"))
+   If x>y:
+Print("1st value is big")
+Else:
+Print ("2nd value is big ")
+If x==Y:
+Print(" two values are equal!!")
+Else:
+Print ("two numbers are not equal")
